@@ -22,12 +22,20 @@
 # See the links below for an example.
 
 # Top-level page
-- title: Home
+- #title: Home
   url: /intro
   not_numbered: true
 
+- url: /guide/01_overview
+  not_numbered: true  
+  expand_sections: true
+  sections:
+  - url: /guide/05_faq
+  - url: /guide/06_advanced
+
+
 # External link
-- title: GitHub repository
+- title: THIS IS WHAT
   url: https://github.com/jupyter/jupyter-book
   external: true
   not_numbered: true

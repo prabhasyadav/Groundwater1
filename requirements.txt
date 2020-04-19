@@ -1,10 +1,16 @@
 # Requirements for the demo notebooks
 # Useful for MyBinder configuration
-pandas
-numpy
+
 datascience
 folium
-matplotlib
 nbinteract
-scipy
 jupyter-book
+numpy==1.16.*
+matplotlib==3.*
+scipy==1.2.*
+panel==0.6.*
+ipysheet==0.4.*
+pandas==0.24.*
+rise==5.5.*
+jupyter-contrib-nbextensions==0.5.*
+ipywidgets==7.5.*
