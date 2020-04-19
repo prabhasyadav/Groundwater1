@@ -45,24 +45,32 @@
     not_numbered: true
   - url: /flow/12_gw_storage
     not_numbered: true
-  - url: /flow/T1_aq_storage
-    not_numbered: true
+    expand_subsections: false 
+    subsections:
+    - url: /flow/T1_aq_storage
+      not_numbered: true
   - url: /flow/13_Darcy_law_K
     not_numbered: true
-  - url: /flow/T2_conductivity
-    not_numbered: true
-  - url: /flow/T3_eff_hyd
-    not_numbered: true
+    expand_subsections: false 
+    subsections:
+    - url: /flow/T2_conductivity
+      not_numbered: true
+    - url: /flow/T3_eff_hyd
+      not_numbered: true
   - url: /flow/14_aq_hetero
     not_numbered: true
   - url: /flow/15_flow3D_streamlines
     not_numbered: true
-  - url: /flow/T4_comp_cond
-    not_numbered: true
+    expand_subsections: false 
+    subsections:
+    - url: /flow/T4_comp_cond
+      not_numbered: true
   - url: /flow/16_well
     not_numbered: true
-  - url: /flow/T5_wells
-    not_numbered: true
+    expand_subsections: false 
+    subsections:
+    - url: /flow/T5_wells
+      not_numbered: true
 
 # External link
 - header: Groundwater Tools
