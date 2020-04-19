@@ -22,7 +22,7 @@
 # See the links below for an example.
 
 # Top-level page
-- #title: Home
+- title: Home
   url: /intro
   not_numbered: true
 
