@@ -65,8 +65,9 @@
     not_numbered: true
 
 # External link
-- title: Contamination Assessment and Site-Management Tool
-  url: www.CAST.iitd.ac.in
+- header: Groundwater Tools
+- title: Contamination Assessment and Site-Management Tool (CAST)
+  url: http:www.CAST.iitd.ac.in
   external: true
   not_numbered: true
 
