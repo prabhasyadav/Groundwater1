@@ -1,9 +1,12 @@
-#  Groundwater flow equation
+# Course GW520 about?
 
-IPYNB code for 
+The groundwater I is the base course of a very broad topic Groundwater. Still at the basic-level, this course will introduce the three main components
+of groundwater study: 
+- Flow 
+- Transport
+- Modeling 
 
-1. isochrones and protection zones  Excel sheet 
-2.  Excel sheet “anisotropic_aquifer_2D”
+will be introduced in the course
 
 ## What do you need in this course?
 
