@@ -66,7 +66,7 @@ jupyterhub_interact_text: Interact             # The text that interact buttons 
 
 # Binder link settings
 use_binder_button: true                # If 'true', add a binder button for interactive links
-binderhub_url: https://mybinder.org/v2/gh/prabhasyadav/Groundwater1/gh-pages                        # The URL for your BinderHub. If no URL, use ""
+binderhub_url: https://mybinder.org/v2/gh/prabhasyadav/Groundwater1/e04c93fe9a6f6bf61ad0a0e9b3dab50f53ae522d                        # The URL for your BinderHub. If no URL, use ""
 binder_repo_base: https://github.com/                     # The site on which the textbook repository is hosted
 binder_repo_org: jupyter                   # The username or organization that owns this repository
 binder_repo_name: Groundwater1                        # The name of the repository on the web
