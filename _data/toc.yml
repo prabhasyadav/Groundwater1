@@ -22,9 +22,16 @@
 # See the links below for an example.
 
 # Top-level page
-- title: Home
+- #title: Home
   url: /intro
   not_numbered: true
+
+- url: /background/00_general
+  not_numbered: true
+  expand_sections: true
+  sections:
+  - url: /background/01_course_overview
+  - url: /background/02_basic_hydrogeology
 
 - url: /guide/01_overview
   not_numbered: true  
