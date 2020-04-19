@@ -28,7 +28,7 @@
 
 - url: /background/00_general
   not_numbered: true
-  expand_sections: true
+  expand_sections: false
   sections:
   - url: /background/01_course_overview
   - url: /background/02_basic_hydrogeology

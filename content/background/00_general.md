@@ -1,4 +1,4 @@
-# Course Format: JUPYTER notebook and Python Programming
+# Course Format
 
 ## What is JUPYTER notebook?
 
