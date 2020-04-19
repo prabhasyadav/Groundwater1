@@ -37,6 +37,8 @@
   - url: /background/03_basic_hydrogeology
     not_numbered: true
 
+- divider: true
+
 - url: /flow/10_flow_overview
   not_numbered: true
   expand_sections: true
@@ -71,6 +73,8 @@
     subsections:
     - url: /flow/T5_wells
       not_numbered: true
+
+- divider: true
 
 # External link
 - header: Groundwater Tools
