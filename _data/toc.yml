@@ -28,17 +28,42 @@
 
 - url: /background/00_general
   not_numbered: true
-  expand_sections: false
+  expand_sections: true
   sections:
-  - url: /background/01_course_overview
-  - url: /background/02_basic_hydrogeology
+  - url: /background/01_python
+    not_numbered: true
+  - url: /background/02_jupyter
+    not_numbered: true
+  - url: /background/03_basic_hydrogeology
+    not_numbered: true
 
-- url: /guide/01_overview
+- url: /flow/10_flow_overview
+  not_numbered: true
   not_numbered: true  
   expand_sections: true
   sections:
-  - url: /guide/05_faq
-  - url: /guide/06_advanced
+  - url: /flow/11_subsurface_structure
+    not_numbered: true
+  - url: /flow/12_gw_storage
+    not_numbered: true
+  - url: /flow/T1_aq_storage
+    not_numbered: true
+  - url: /flow/13_Darcy_law_K
+    not_numbered: true
+  - url: /flow/T2_conductivity
+    not_numbered: true
+  - url: /flow/T3_eff_hyd
+    not_numbered: true
+  - url: /flow/14_aq_hetero
+    not_numbered: true
+  - url: /flow/15_flow3D_streamlines
+    not_numbered: true
+  - url: /flow/T4_comp_cond
+    not_numbered: true
+  - url: /flow/16_well
+    not_numbered: true
+  - url: /flow/T5_wells
+    not_numbered: true
 
 
 # External link

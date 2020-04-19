@@ -1,4 +1,6 @@
-# Course GW520 about?
+# Course and methods
+
+## What is cource GW520 about?
 
 The groundwater I is the base course of a very broad topic Groundwater. Still at the basic-level, this course will introduce the three main components
 of groundwater study: 
@@ -28,10 +30,3 @@ The course will be conducted in the following manner:
 1. Lectures will be presented as a combination of presentation and interactive visuals.
 2. Tutorials will entirely be based on interactive excercises and visualization 
 3. This is how you set-up internal navigation [anatomy of a Jupyter Book](01-5_tour.html) section covers the
-
-
-
-
-
-
-
