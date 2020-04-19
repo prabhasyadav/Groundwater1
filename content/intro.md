@@ -1,53 +1,42 @@
-# Books with Jupyter and Jekyll
+# The Interactive Groundwater-I Book
 
-<img src="https://circleci.com/gh/jupyter/jupyter-book.svg?style=svg" class="left">
 
-Jupyter Book lets you build an online book using a collection of Jupyter Notebooks
-and Markdown files. Its output is similar to the excellent [Bookdown](https://bookdown.org/yihui/bookdown/) tool,
-and adds extra functionality for people running a Jupyter stack.
+The site will provide interactive JUPYTER notebook and the text-contents of a typical basic groundwater course taught at higher UG level or the early PG level at universities. 
 
-For an example of a book built with Jupyter Book, see the [textbook for Data 100](https://www.textbook.ds100.org/) at UC Berkeley.
+The contents are geared towards learning through computing. The computing part is entirely based on Python programming language. Only very basic Python programming is required to be known. 
 
-Here are a few features of Jupyter Book
+The contents are divided into:
+1. Lecture Parts
+2. Tutorial Parts
 
-* All course content is written in markdown and Jupyter Notebooks, stored in `notebooks/`
-* The Jupyter Book repo comes packaged with helper scripts to convert these into Jekyll pages (in `scripts/`) that can be hosted for free on GitHub
-* Pages can have [Binder](https://mybinder.org) or JupyterHub links automatically added for interactivity.
-* The website itself is based on Jekyll, and is highly extensible and can be freely-hosted on GitHub.
-* There are lots of nifty HTML features under-the-hood, such as Turbolinks fast-navigation and
-  click-to-copy in code cells.
+The lecture parts contains mostly texts [markdown][Kramdown] format and the notebooks (.ipynb). The notebooks can be interacted in the browser. 
 
-## Getting started
+The tutorial parts are almost entirely notebooks (.ipynb) format. 
 
-To get started, you may be interested in the following links.
-Here are a few links of interest:
+The entire contents can be printed as a pdf.
 
-* **[Quickstart](features/features)** is a quick demo and overview of Jupyter Book.
 
-* **[The Jupyter Book Guide](guide/01_overview)**
-  will step you through the process of configuring and building your own Jupyter Book.
+## Main contributors
 
-* **[The Jupyter Book template repo](https://github.com/jupyter/jupyter-book)** is the template
-  repository you'll use as a start for your Jupyter Book.
+The contents are developed by (not in any order):
 
-* **A demo of the Jupyter Book** can be browsed via the sidebar to the left.
+1. Prabhas K Yadav (TU Dresden)
+2. Thomas Reimann (TU Dresden)
+3. Sandhya Birla (Indian Institute of Technology Delhi)
+4. Anton Köhler
+5. Abiral Poudel
 
-## Installation
 
-Here's a brief rundown of how to create your own Jupyter Book using this site. For a more
-complete guide, see [the Jupyter Book guide](guide/01_overview).
-
-* Fork the Jupyter Book template repo
-* Replace the demo notebooks in `content/` with your own notebooks and markdown files.
-* Create a Table of Contents yaml file by editing `_data/toc.yaml`.
-* Generate the Jekyll markdown for your notebooks by running `scripts/generate_book.py`
-* Push your changes to GitHub (or wherever you host your site)!
 
 ## Acknowledgements
 
-Jupyter Book was originally created by [Sam Lau][sam] and [Chris Holdgraf][chris]
-with support of the **UC Berkeley Data Science Education Program and the Berkeley
-Institute for Data Science**.
+This work is partly supported:
+1. The [Multimediafonds, TU-Dresden][Multimediafonds, TU-Dresden] 
+2. The [ESTIMATE, project, DFG][DFG]
 
-[sam]: http://www.samlau.me/
-[chris]: https://predictablynoisy.com
+
+[Kramdown]: https://kramdown.gettalong.org/
+
+[Multimediafonds, TU-Dresden]: https://tu-dresden.de/tu-dresden/organisation/rektorat/prorektor-bildung-und-internationales/zill/e-learning/multimediafonds
+
+[DFG]: https://www.dfg.de/
