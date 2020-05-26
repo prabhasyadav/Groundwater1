@@ -27,7 +27,7 @@ The course will be conducted in the following manner:
 
 1. Lectures will be presented as a combination of presentation and interactive visuals.
 2. Tutorials will entirely be based on interactive excercises and visualization 
-3. This is how you set-up internal navigation [anatomy of a Jupyter Book](01-5_tour.html) section covers the
+3. This is how you set-up internal navigation [anatomy of a Jupyter Book](https://jupyterbook.org/intro.html) 
 
 
 
